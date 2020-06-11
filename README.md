@@ -18,7 +18,9 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 *  **Neural Network in Keras with page-blocks dataset** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20page-blocks%20dataset.ipynb)
 *  **Neural Network in Keras with phoneme datset.ipynb** [Example](https://github.com/pythonuzgit/elmurodov_tensorflow/blob/master/Neural%20Network%20in%20Keras%20with%20phoneme%20datset.ipynb)
 
+# See also Time Series Forecasting with python
 
+* **Alchohol time series forecasting** [Example]https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Alchohol%20time%20series%20forecasting.ipynb
 
 # See also Natural Language Processing with python
 
