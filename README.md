@@ -22,6 +22,15 @@ Deep learning is a part of Machine learning or rather to say deep learning uses 
 
 * **Alchohol time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Alchohol%20time%20series%20forecasting.ipynb)
 
+*  **Hause time series forecasting** [Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Hause%20time%20series%20forecasting.ipynb)
+
+*  **Time Series Prediction with LSTM**[Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20Series%20Prediction%20with%20LSTM%20.ipynb)
+
+*  **Time series Prediction with LSTM RNN in Python with Keras**[Example](https://github.com/pythonuzgit/elmurodov_time-series-forecasting/blob/master/Time%20series%20Prediction%20with%20LSTM%20RNN%20in%20Python%20with%20Keras.ipynb)
+
+
+
+
 # See also Natural Language Processing with python
 
 
